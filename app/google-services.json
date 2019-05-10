@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747259421223",
+    "firebase_url": "https://comunicador-by-muntaha.firebaseio.com",
+    "project_id": "comunicador-by-muntaha",
+    "storage_bucket": "comunicador-by-muntaha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747259421223:android:88a9ce64cc5535ad",
+        "android_client_info": {
+          "package_name": "com.moony.comunicador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747259421223-9eegub7ijfgjuss5okseh0m5foauupqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv6FnbGquN_QW9BLvtBv26oR_L6vyMlp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747259421223-9eegub7ijfgjuss5okseh0m5foauupqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

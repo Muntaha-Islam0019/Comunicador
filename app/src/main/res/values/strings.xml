@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Comunicador</string>
+    <string name="username">Username</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="regButton">Register</string>
+    <string name="alreadyHaveAccount">Already have an account?</string>
+    <string name="logButton">Login</string>
+    <string name="backToReg">Get back to register</string>
+    <string name="imageSelector">Select image</string>
+    <string name="newMessage">New message</string>
+    <string name="latMessage">Latest message</string>
+    <string name="sOut">Sign out</string>
+    <string name="send">Send</string>
+    <string name="enterMes">Enter message</string>
+    <string name="defMes">"This is my message that will wrap into multiple lines and keep on going."</string>
+</resources>
